@@ -1,0 +1,1 @@
+A Node & Typescript Base Project - inspired by https://khalilstemmler.com/blogs/typescript/node-starter-project/
